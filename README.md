@@ -115,3 +115,7 @@ An example of training HiTIN on custom dataset with **BERT** as the text encoder
 python train.py -cfg config/tin-custom-data.json -k 2 -b 12 -hd 768 -lr 1e-4 -tp sum
 ```
 
+Best Macro F1 Model: https://1drv.ms/u/s!AlZ2frx161IqgdRwz9m3Ub5k15_pdw?e=C0ghYF
+Best Micro F1 Model: https://1drv.ms/u/s!AlZ2frx161IqgdRyLr_q00XSOhledA?e=Vs01i5
+Glove Embeddings: https://1drv.ms/t/s!AlZ2frx161IqgdRvFiKijt3A_l9zVQ?e=u5Dnyn
+BERT Base: https://1drv.ms/u/s!AlZ2frx161IqgdRxezqcGIvp2IQvTQ?e=qzb3A6
